@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Comic Neue', cursive;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -22,7 +22,6 @@ section {
 .section-content {
     background-color: #F7E5D7;
     border: 2px solid black;
-    /* height: 160px; */
 }
 
 .title {

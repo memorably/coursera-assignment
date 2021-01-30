@@ -22,7 +22,7 @@ section {
 .section-content {
     background-color: #F7E5D7;
     border: 2px solid black;
-    height: 160px;
+    /* height: 160px; */
 }
 
 .title {
@@ -135,4 +135,8 @@ p {
     .col-md-12 {
         width: 100%;
     }
+}
+
+@media (max-width: 767px) {
+
 }

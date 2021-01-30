@@ -22,8 +22,7 @@ section {
 .section-content {
     background-color: #F7E5D7;
     border: 2px solid black;
-    height: 150px;
-    overflow: scroll;
+    height: 160px;
 }
 
 .title {
